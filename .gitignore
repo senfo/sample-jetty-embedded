@@ -1,0 +1,53 @@
+# Compiled class file
+*.class
+*target/
+dependency-reduced-pom.xml
+__pycache__/
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# IntelliJ Files
+*.iml
+.idea/
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Node
+node_modules/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Operating system files
+.DS_Store
+*.swp
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+#rgt-ui React app
+rgt-ui/.eslintcache
+rgt-ui/node_modules
+
+*.old
+*.tgz
+
+# Python chache files
+__pycache__/
+
+# VS Code files
+.classpath
+.project
+.settings
+.vscode
